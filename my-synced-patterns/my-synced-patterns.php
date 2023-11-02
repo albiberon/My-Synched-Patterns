@@ -4,7 +4,11 @@
  * Description: Light weight plugin to list and manage your synced patterns right on your Dashboard.
  * Version: 1.0
  * Author: Albiberon
+ * Tested up to: 6.3.2
+ * License: GPL-3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
+
 
 function my_custom_menu_page(){
     // Code to output the content of your custom page goes here
