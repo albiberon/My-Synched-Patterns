@@ -2,6 +2,7 @@
 /**
  * Plugin Name: My Synced Patterns
  * Description: Light weight plugin to list and manage your synced patterns right on your Dashboard.
+ * GitHub Plugin URI: https://github.com/albiberon/My-Synched-Patterns
  * Version: 1.0
  * Author: Albiberon
  * Tested up to: 6.3.2
