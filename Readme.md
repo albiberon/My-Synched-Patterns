@@ -1,5 +1,5 @@
 - **Plugin Name:** My Synced Patterns
-- **Description:** Light weight plugin to list and manage your synced patterns right on your Wordpress dashboard.
+- **Description:** A light weight plugin to list and manage your synced patterns right on your Wordpress dashboard.
 - **Version:** 1.0
 - **Author:** Albiberon
 - **Tested up to:** 6.3.2
